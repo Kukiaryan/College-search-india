@@ -1,0 +1,32 @@
+[
+    {
+        "name": "IIT Delhi",
+        "location": "Delhi",
+        "courses": ["CSE", "IT"],
+        "contact": "98XXXXXXXX"
+    },
+    {
+        "name": "IIT Bombay",
+        "location": "Bombay",
+        "courses": ["CSE", "ECE"],
+        "contact": "91XXXXXXXX"
+    },
+    {
+        "name": "IIT Madras",
+        "location": "Madras",
+        "courses": ["IT", "Cyber Security"],
+        "contact": "99XXXXXXXX"
+    },
+    {
+        "name": "MIT",
+        "location": "Pune",
+        "courses": ["CSIT", "CSE"],
+        "contact": "97XXXXXXXX"
+    },
+    {
+        "name": "IIIT",
+        "location": "Delhi",
+        "courses": ["IT", "ECE"],
+        "contact": "96XXXXXXXX"
+    }
+]
